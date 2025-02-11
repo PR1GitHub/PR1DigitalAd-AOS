@@ -46,7 +46,7 @@ publishing{
                 from(components.findByName("release"))
                 groupId = "com.purered.pr1digitalad" // "com.purered.pr1digitalad_riteaid_ios"
                 artifactId = "pr1digitalad_standard_aos"
-                version = "0.0.17"
+                version = "0.0.19"
             }
         }
     }
